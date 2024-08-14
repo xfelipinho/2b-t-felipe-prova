@@ -24,7 +24,7 @@ strong{
     
 }
 
-strong :first-letter{
+p :first-letter{
     color: Red;
 }
 
