@@ -31,3 +31,7 @@ p :first-letter{
 img{
     opacity: 30%
 }
+
+iframe{
+    align-items: center;
+}
